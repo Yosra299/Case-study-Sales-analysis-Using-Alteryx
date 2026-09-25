@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer" />
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name>Order Details Preparation Documentation</Name>
+          <DefaultAnnotationText>Transform Order Details: Imported Order_Details.xlsx starting from row 2, transposed payment method columns, renamed Name and Value fields using Select, and sorted by Sales Price descending. Parse Categories: Filtered null Quantity records, split Category into Category and Sub-Category, applied Data Cleansing, renamed/reordered fields, and sorted for business analysis. Calculate Profitability: Profit = ([Sale Price]-[Cost per Item])*[Quantity], classified as High/Avg/Low/Loss. Bring It All Together: Used separate containers for Customer and Order flows, joined datasets, sorted by Profit, and identified the customer with the most profitable order.</DefaultAnnotationText>
+        </Annotation>
+      </Properties>
+    </Node>
+  </Nodes>
+</AlteryxDocument>
