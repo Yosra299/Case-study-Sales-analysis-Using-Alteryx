@@ -108,6 +108,6 @@ The datasets used in this project originate from course materials and are not in
 ## Author
 
 **Yosra Mahmoud Mohammed Attaher**  
-AI Engineer
+Data | AI Engineer
 
 Feel free to connect with me on LinkedIn and share any feedback or suggestions.
